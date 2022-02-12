@@ -46,10 +46,12 @@ main {
   display: flex;
   align-items: center;
 }
+
 .hero-cont .right img {
   width: 100%;
 }
 
+/* --- Media Queries --- */
 @media screen and (max-width: 768px) {
   .hero-cont {
     flex-direction: column-reverse;
