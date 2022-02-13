@@ -1,9 +1,9 @@
-.quiz-cont {
+.main-cont {
   min-height: 80vh;
   padding: 1rem;
 }
 
-.quiz-card {
+.card {
   padding: 2rem 1.5rem;
   margin: 2rem auto;
   width: 500px;
@@ -11,38 +11,38 @@
   background-color: var(--COLOR-LIGHT);
 }
 
-.quiz-card img {
+.card img {
   display: block;
   margin: 0 auto 1.5rem auto;
 }
 
-.quiz-card h6 {
+.card h6 {
   text-align: center;
   margin-bottom: 1rem;
 }
 
-.quiz-card ul {
+.card ul {
   list-style: none;
   margin-bottom: 1.5rem;
 }
 
-.quiz-card ul li {
+.card ul li {
   padding: 0.5rem;
 }
 
-.quiz-card .icon-arrow {
+.card .icon-arrow {
   font-size: 1.4rem;
   padding-right: 1rem;
   color: var(--COLOR-HIGHLIGHT);
 }
 
-.quiz-card .btn {
+.card .btn {
   margin-left: auto;
 }
 
 /* --- Media Queries --- */
 @media screen and (max-width: 500px) {
-  .quiz-card {
+  .card {
     width: fit-content;
   }
 }
