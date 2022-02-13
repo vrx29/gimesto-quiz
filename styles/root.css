@@ -2,6 +2,7 @@
 @import url(./components/navbar.css);
 @import url(./components/categories.css);
 @import url(./components/footer.css);
+@import url(./components/rules.css);
 
 /* --- Utilities --- */
 @import url(./utilities/reset.css);
