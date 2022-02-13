@@ -1,0 +1,16 @@
+/* --- Components --- */
+@import url(./components/navbar.css);
+@import url(./components/categories.css);
+@import url(./components/footer.css);
+
+/* --- Utilities --- */
+@import url(./utilities/reset.css);
+@import url(./utilities/anchor.css);
+@import url(./utilities/colors.css);
+
+body {
+  background-color: #edf2fb;
+  background-image: url(../assets/backgrounds/dark-background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
