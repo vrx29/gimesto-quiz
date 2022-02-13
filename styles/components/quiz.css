@@ -25,11 +25,11 @@
   text-align: center;
   margin: 0.5rem 0;
   border-radius: 0.5rem;
-  background-color: #f8f7ff;
+  background-color: var(--COLOR-OPTION);
 }
 
 .options-cont label:hover {
-  background-color: #e2eafc;
+  background-color: var(--COLOR-OPTION-HOVER);
   transform: translate(0.2rem);
   transition: transform ease-in-out 0.5s;
 }
