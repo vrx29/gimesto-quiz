@@ -3,11 +3,13 @@
 @import url(./components/categories.css);
 @import url(./components/footer.css);
 @import url(./components/rules.css);
+@import url(./components/quiz.css);
 
 /* --- Utilities --- */
 @import url(./utilities/reset.css);
 @import url(./utilities/anchor.css);
 @import url(./utilities/colors.css);
+@import url(./utilities/margin.css);
 
 body {
   background-color: #edf2fb;
