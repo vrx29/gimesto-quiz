@@ -2,4 +2,6 @@
 :root {
   --COLOR-BACKGROUND: #edf2fb;
   --COLOR-HIGHLIGHT: #11bdb8;
+  --COLOR-OPTION: #f8f7ff;
+  --COLOR-OPTION-HOVER: #e2eafc;
 }

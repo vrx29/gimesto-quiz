@@ -37,6 +37,7 @@
 }
 
 .card .btn {
+  max-width: max-content;
   margin-left: auto;
 }
 
