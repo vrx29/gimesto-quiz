@@ -26,7 +26,7 @@
   color: var(--COLOR-LIGHT);
 }
 
-.card ul {
+.card .quiz-options {
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--COLOR-OPTION-HOVER);
 }
