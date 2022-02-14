@@ -4,6 +4,7 @@
 @import url(./components/footer.css);
 @import url(./components/rules.css);
 @import url(./components/quiz.css);
+@import url(./components/result.css);
 
 /* --- Utilities --- */
 @import url(./utilities/reset.css);
