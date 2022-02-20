@@ -1,0 +1,32 @@
+.card img {
+  height: 5rem;
+}
+
+.result {
+  text-align: center;
+}
+
+.option {
+  padding: 1rem;
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin: 0.5rem 0;
+  border-radius: 0.5rem;
+  background-color: var(--COLOR-OPTION);
+}
+
+.correct {
+  background-color: var(--COLOR-SUCCESS);
+  color: var(--COLOR-LIGHT);
+}
+
+.wrong {
+  background-color: var(--COLOR-ERROR);
+  color: var(--COLOR-LIGHT);
+}
+
+.card .quiz-options {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--COLOR-OPTION-HOVER);
+}
